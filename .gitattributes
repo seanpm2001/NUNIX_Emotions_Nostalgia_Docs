@@ -105,7 +105,7 @@
 # ReStructuredText
 *.rst linguist-detectable=true
 *.rst linguist-documentation=false
-*.rst linguist-language=ReStructured-Text
+*.rst linguist-language=ReStructuredText
 # WikiText
 *.wiki linguist-detectable=false
 *.wiki linguist-documentation=false
@@ -167,7 +167,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 21st at 02:30 pm PST)
+# File version: 6 (2025, Thursday, May 29th at 10:18 pm PST)
 # Line count (including blank lines and compiler line): 174
 
 # End of script
